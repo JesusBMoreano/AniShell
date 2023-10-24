@@ -1,2 +1,2 @@
-# CS157A-team10
+# AniShell
 CS157A Term Group Project
